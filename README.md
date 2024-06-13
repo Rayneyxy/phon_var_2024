@@ -1,7 +1,7 @@
 # The acquisition, contact, and transmission of phonological variation
 ## The 19th Conference on Laboratory Phonology: LabPhon 19
 
-## Please downloadf the html file to see the full data analysis
+## Please download the html file to see the full data analysis
 
 ## Authors
 ### Xiaoyu (Rayne) Yu: xyu97@connect.hku.hk
