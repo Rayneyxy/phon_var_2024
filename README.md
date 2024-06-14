@@ -4,7 +4,7 @@
 ## Please download the html file to see the full data analysis
 
 ## Authors
-### Language Development Lab (LDL), HKU: https://linguistics.hku.hk/ldlhku/
+#### Language Development Lab (LDL), HKU: https://linguistics.hku.hk/ldlhku/
 ### Xiaoyu (Rayne) YU: xyu97@connect.hku.hk
 ### Samuel, Sui Lung SZE: u3564255@connect.hku.hk
 ### Thomas VAN HOEY: thomas.vanhoey@kuleuven.be
