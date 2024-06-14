@@ -1,8 +1,8 @@
 # The acquisition, contact, and transmission of phonological variation
-## The 19th Conference on Laboratory Phonology: LabPhon 19
-#### Language Development Lab (LDL), Department of Linguistics, HKU: https://linguistics.hku.hk/ldlhku/
+### The 19th Conference on Laboratory Phonology: LabPhon 19
+### Language Development Lab (LDL), Department of Linguistics, HKU: https://linguistics.hku.hk/ldlhku/
 
-## Please download the html file to see the full data analysis
+## Please download the html file "phon_var_2024.html" to see the full data analysis
 
 ## Authors
 ### Xiaoyu (Rayne) YU: xyu97@connect.hku.hk
