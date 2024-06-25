@@ -11,5 +11,5 @@
 ### Bingzi YU: iceyu@mit.edu
 ### Frank, Lihui TAN: frank.lhtan@connect.hku.hk
 ### Stephen, Tsz To HO:	u3570386@connect.hku.hk
-### Wayne, Tak Wang LI: twangli@hku.hk
+### Wayne, Tak Wang LI: twangli@uw.edu
 ### Youngah DO (corresponding author): youngah@hku.hk
